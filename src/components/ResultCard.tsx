@@ -33,6 +33,9 @@ export const ResultCard = forwardRef<HTMLDivElement, ResultCardProps>(function R
       <div className="relative px-6 pb-7 pt-6">
         <header className="border-b border-[#252a35] pb-4">
           <p className="text-[0.7rem] font-medium tracking-wide text-[#7dd3c0]/90">平行宇宙职业扫描仪</p>
+          <p className="mt-0.5 font-mono-strict text-[0.62rem] tracking-wide text-[#8b93a8]" lang="en">
+            Parallel Career Scanner
+          </p>
           <p className="mt-1 font-mono-strict text-[0.6rem] tracking-wide text-[#6b7287]">版本 v0.10.2 · 读数面板</p>
           <div className="mt-3 grid grid-cols-2 gap-x-3 gap-y-1 font-mono-strict text-[0.62rem] text-[#9aa3b5]">
             <span className="text-[#5c6375]">样本编号</span>

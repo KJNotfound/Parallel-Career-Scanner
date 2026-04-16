@@ -114,7 +114,10 @@ export default function App() {
           <h1 className="text-2xl font-semibold tracking-tight text-[#eef1f7] sm:text-3xl">
             平行宇宙职业扫描仪
           </h1>
-          <p className="mt-1 font-mono-strict text-xs text-[#6b7287]">版本 v0.10.2</p>
+          <p className="mt-1.5 font-mono-strict text-[0.7rem] tracking-wide text-[#8b93a8]" lang="en">
+            Parallel Career Scanner
+          </p>
+          <p className="mt-2 font-mono-strict text-xs text-[#6b7287]">版本 v0.10.2</p>
           <p className="mt-4 max-w-prose text-pretty text-sm leading-relaxed text-[#9aa3b5]">
             职务条=语境+真实工种（短）；简录补叙事。多选项写入种子。仅供娱乐。
           </p>
