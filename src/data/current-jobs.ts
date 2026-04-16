@@ -1,0 +1,20 @@
+/** 本宇宙自报职业（选填），仅写入种子与部分文案分支。 */
+export const CURRENT_JOB_CHOICES: { value: string; label: string }[] = [
+  { value: '', label: '（不填 / 未知）' },
+  { value: 'dev', label: '开发 / 测试' },
+  { value: 'pm', label: '产品 / 项目' },
+  { value: 'design', label: '设计' },
+  { value: 'ops', label: '运维 / 安全' },
+  { value: 'data', label: '数据 / 分析' },
+  { value: 'sales', label: '销售 / 市场' },
+  { value: 'support', label: '客服 / 行政' },
+  { value: 'finance', label: '财务 / 法务' },
+  { value: 'edu', label: '教育 / 科研' },
+  { value: 'med', label: '医疗' },
+  { value: 'creative', label: '内容 / 媒体' },
+  { value: 'trade', label: '蓝领 / 技工' },
+  { value: 'service', label: '服务业' },
+  { value: 'student', label: '学生' },
+  { value: 'free', label: '自由职业' },
+  { value: 'unemp', label: '待业 / 空窗' },
+]
