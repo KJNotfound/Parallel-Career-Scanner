@@ -61,4 +61,4 @@ npm run preview
 
 ## 仓库
 
-<https://github.com/KJNotfound/App-416>
+<https://github.com/KJNotfound/Parallel-Career-Scanner>
